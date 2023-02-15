@@ -5,3 +5,4 @@ https://p5js.org/
 
 今天課堂將會使用的例子
 https://editor.p5js.org/chanlongfunglazarus/collections/-UFmPbjGw
+[JC-IDEA (Student's Section) Week1.pdf](https://github.com/JC-Project-IDEA/Digital-Senses-Week-1/files/10738796/JC-IDEA.Student.s.Section.Week1.pdf)
