@@ -1,4 +1,4 @@
-# Digital Senses Week 1 : P5.js 基礎教學及基本編程技巧
+# Digital Senses Lesson 1 : P5.js 基礎教學及基本編程技巧
 
 
 甚麼是 P5.js?
